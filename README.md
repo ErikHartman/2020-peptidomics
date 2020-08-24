@@ -15,3 +15,7 @@ The dataset retrieved from MS/MS when run through PEAKS X combined with the NCBI
 ### Results
 Although are dataset was limited, our study resulted in interesting findings - showcasing the power of simple sorting algorithms on peptidomic data. Amongst other things, we showed that infected wounds contain more antimicrobial peptides (AMPs) than healthy ones. These AMPs are generally derived from hemoglobin subunit alpha or beta. Hemoglobin derived peptides exist in a larger extent in infected wounds than in healthy ones. 
 
+### Code
+Our code is divided into 3 sections and indexed accordingly. The inter-sample and inter-group general charactersitcs and sequence manipulation indexed 1.1 --> 7.3. Code generating supplementary figures and information is indexed S1.1 --> S1.3. Code used for formatting is indexed F1 --> F
+
+
