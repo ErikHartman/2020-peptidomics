@@ -18,3 +18,6 @@ This file contains the data from Rathi et al. regarding trombin degradation by a
 
 ### heatmap.xlsx
 This file contains the result from Deep-AmPEP30 and was used to create the heatmap. 
+
+### difference_data.xlsx
+This file contains the top 50 most distinct peptides in the infected and non-infected group. This was calculated by subtracting spectral counts between the infected and non-infected group.
