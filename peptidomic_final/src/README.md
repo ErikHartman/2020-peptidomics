@@ -5,7 +5,7 @@ The code is divided into 2 parts. 1. peptidomic_analysis. This contains all the 
 ### peptidomic_analysis
 The code is indexed as follows: 
 
-'''bash
+´´´bash
 0. Import and methods
 
 1. Acute Wound fluid samples
@@ -50,7 +50,7 @@ The code is indexed as follows:
 8. Finding peptides from literature
 8.1 Searching the dataset
 8.2 Spectral counting of peptide sequences
-
+´´´
 
 
 Supplementary 
