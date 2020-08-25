@@ -5,7 +5,7 @@ This git repository contains the code and data for a research project conducted 
 The full scientific article can be found here: xxxxxxxxxxxxxxxxxxxxx
 
 ### Background
-This project uses LC-MS/MS peptidomic data retrieved from dressing and acute wound fluid to investigate any potential differences between acute, non-infected and infected wound fluids. We used an unbiased results-based approach and simple algorithms and libraries in Python, as well as other open-source software like Deep-AmPEP30 [1], Peptigram [2] and Proteasix [3], to analyze our data. The git contains all the code necessary to recreate our project, except for the compatability of the web-based 3rd party algorithms, although we've included the necessary formatting, and the output data we retrieved. The separate folders contain instructions which hopefully allows you to understand and replicate the code.
+This project uses LC-MS/MS peptidomic data retrieved from dressing and acute wound fluid to investigate any potential differences between acute, non-infected and infected wound fluids. We used an unbiased results-based approach and simple algorithms and libraries in Python, as well as other open-source software like [Deep-AmPEP30](https://doi.org/10.1016/j.omtn.2020.05.006)[1], [Proteasix](https://doi.org/10.1002/pmic.201200493)[2] and [Peptigram](https://doi.org/10.1021/acs.jproteome.6b00751)[3], to analyze our data. The git contains all the code necessary to recreate our project, except for the compatability of the web-based 3rd party algorithms, although we've included the necessary formatting, and the output data we retrieved. The separate folders contain instructions which hopefully allows you to understand and replicate the code.
 
 ### Dataset
 The dataset retrieved from MS/MS when run through PEAKS X combined with the NCBI Human_20413_20190124 proteomic database resulted in 3 types of xlsx-files per sample: peptide-files, protein-peptide-files and protein-files.
@@ -24,6 +24,7 @@ Our code was finally completed using Python in Jupyterlab and is divided into 3 
 [3] Manguy J., et al. “Peptigram: A Web-Based Application for Peptidomics Data Visualization” 2017, https://doi.org/10.1021/acs.jproteome.6b00751
 
 
-Contact information: Erik Hartman - erik.hartman@hotmail.com
-                     Karl Wallblom - karl.wallblom@gmail.com
+# Contact information: 
+Erik Hartman - erik.hartman@hotmail.com
+Karl Wallblom - karl.wallblom@gmail.com
 
