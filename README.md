@@ -19,7 +19,7 @@ Our code was finally completed using Python in Jupyterlab and is divided into 3 
 ### References to open source software
 [1] Yan J., et al. ”Deep-AmPEP30: Improve Short Antimicrobial Peptides Prediction with Deep Learning”, 2020 https://doi.org/10.1016/j.omtn.2020.05.006
 
-[2] Klein J., et al. “Proteasix: a tool for automated and large-scale prediction of proteases involved in naturally occurring peptide generation” 2013, doi.org/10.1002/pmic.201200493
+[2] Klein J., et al. “Proteasix: a tool for automated and large-scale prediction of proteases involved in naturally occurring peptide generation” 2013, https://doi.org/10.1002/pmic.201200493
 
 [3] Manguy J., et al. “Peptigram: A Web-Based Application for Peptidomics Data Visualization” 2017, https://doi.org/10.1021/acs.jproteome.6b00751
 
