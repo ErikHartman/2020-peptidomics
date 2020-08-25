@@ -51,7 +51,6 @@ The code is indexed as follows:
 8.1 Searching the dataset
 8.2 Spectral counting of peptide sequences
 
-### Supplementary 
 S1. Exclude HB-proteins
 S.1.1 Acute Wound Fluid
 S.1.2 Infected
@@ -60,4 +59,17 @@ S.1.3 Non-infected
 S2. Spectral count barcharts
 S.2.1 Without SC cutoff value
 S.2.2. With SC cutoff value
+```
+Where S denotes the scripts used for supplementary figures and tables.
+
+### Formatting
+The formatting code is indexed in a similar manner: 
+```bash
+F1. Peptigram
+
+F2. Proteasix
+F.2.1 Format proteasix
+F.2.2 Analysis proteasix
+
+F3. 5-way Venn Diagram
 ```
