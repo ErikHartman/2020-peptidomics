@@ -16,7 +16,10 @@ Although are dataset was limited, our study resulted in interesting findings - s
 ### Code
 Our code was finally completed using Python in Jupyterlab and is divided into 3 sections and indexed accordingly. The inter-sample and inter-group general charactersitcs and sequence manipulation indexed 1.1 --> 7.3. Code generating supplementary figures and information is indexed S1.1 --> S1.3. Code used for formatting is indexed F1 --> F
 
-
+### References to open source software
 [1] Yan J., et al. ”Deep-AmPEP30: Improve Short Antimicrobial Peptides Prediction with Deep Learning”, 2020 https://doi.org/10.1016/j.omtn.2020.05.006
+
 [2] Klein J., et al. “Proteasix: a tool for automated and large-scale prediction of proteases involved in naturally occurring peptide generation” 2013, doi.org/10.1002/pmic.201200493
+
 [3] Manguy J., et al. “Peptigram: A Web-Based Application for Peptidomics Data Visualization” 2017, https://doi.org/10.1021/acs.jproteome.6b00751
+
