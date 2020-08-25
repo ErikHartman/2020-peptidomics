@@ -24,6 +24,7 @@ Our code was finally completed using Python in Jupyterlab and is divided into 3 
 [3] Manguy J., et al. “Peptigram: A Web-Based Application for Peptidomics Data Visualization” 2017, https://doi.org/10.1021/acs.jproteome.6b00751
 
 
-Contact information: Erik Hartman - erik.hartman@hotmail.com
-                     Karl Wallblom - karl.wallblom@gmail.com
+# Contact information: 
+Erik Hartman - erik.hartman@hotmail.com
+Karl Wallblom - karl.wallblom@gmail.com
 
