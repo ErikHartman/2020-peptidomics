@@ -5,7 +5,7 @@ The code is divided into 2 parts. 1. peptidomic_analysis. This contains all the 
 ### peptidomic_analysis
 The code is indexed as follows: 
 
-´´´bash
+'''bash
 0. Import and methods
 
 1. Acute Wound fluid samples
@@ -50,10 +50,8 @@ The code is indexed as follows:
 8. Finding peptides from literature
 8.1 Searching the dataset
 8.2 Spectral counting of peptide sequences
-´´´
 
-
-Supplementary 
+### Supplementary 
 S1. Exclude HB-proteins
 S.1.1 Acute Wound Fluid
 S.1.2 Infected
@@ -62,4 +60,4 @@ S.1.3 Non-infected
 S2. Spectral count barcharts
 S.2.1 Without SC cutoff value
 S.2.2. With SC cutoff value
-bash'''
+'''
