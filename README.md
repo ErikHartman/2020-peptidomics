@@ -1,5 +1,5 @@
 # !In construction!
-# E. Hartman, K. Wallblom 2020-peptidomics
+# Hartman E., Wallblom K., 2020-peptidomics
 This git repository contains the code and data for a research project conducted by Erik Hartman (bachelor in Biomedical Engineering and Biomedicine) and Karl Wallblom (master in Medicine) at Lunds University during the summer of 2020. This work extends the work published by (NAMES) in (JOURNAL/ARCHIVE, DATE). 
 
 The full scientific article can be found here: xxxxxxxxxxxxxxxxxxxxx

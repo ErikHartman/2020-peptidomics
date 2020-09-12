@@ -3,6 +3,12 @@
 ### peptidomic_data
 The dataset retrieved from MS/MS when run through PEAKS X combined with the NCBI Human_20413_20190124 proteomic database resulted in 3 types of xlsx-files per sample: peptide-files and protein-peptide-files. The filetypes contained unique information regarding sequence and protein-distribution, and was utilized when deemed appropriate. 
 
+### Output_formatting
+This folder contains all the output from the formatting scripts. These are used in 3rd party open-source-programs.
+
+### Output_open-source
+This folder contains the result from 3rd party open-source-programs.
+
 ### antimicrobial_map.xlsx
 This file was a result of merging the Deep-AmPEP30 data with python dataframes, in order to create the antimicrobial score. This was used to get the antimicrobial score and to create the piecharts of protein substrates for antimicrobial peptides.
 

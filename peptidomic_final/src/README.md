@@ -15,20 +15,23 @@ The code is indexed as follows:
 1.4 N/C-terminal over spectral count graph
 1.5 Grouped N/C-terminal table (supplementary)
 1.6 Grouped N/C-terminal over spectral count graph (supplementary)
+1.7 Spectral count over occurrence (supplementary)
 2. Non-infected samples
-1.1 Data import
-1.2 Amino acid profile
-1.3 N/C-terminal table
-1.4 N/C-terminal over spectral count graph
-1.5 Grouped N/C-terminal table (supplementary)
-1.6 Grouped N/C-terminal over spectral count graph (supplementary)
+2.1 Data import
+2.2 Amino acid profile
+2.3 N/C-terminal table
+2.4 N/C-terminal over spectral count graph
+2.5 Grouped N/C-terminal table (supplementary)
+2.6 Grouped N/C-terminal over spectral count graph (supplementary)
+2.7 Spectral count over occurrence (supplementary)
 3. Infected samples
-1.1 Data import
-1.2 Amino acid profile
-1.3 N/C-terminal table
-1.4 N/C-terminal over spectral count graph
-1.5 Grouped N/C-terminal table (supplementary)
-1.6 Grouped N/C-terminal over spectral count graph (supplementary)
+3.1 Data import
+3.2 Amino acid profile
+3.3 N/C-terminal table
+3.4 N/C-terminal over spectral count graph
+3.5 Grouped N/C-terminal table (supplementary)
+3.6 Grouped N/C-terminal over spectral count graph (supplementary)
+3.7 Spectral count over occurrence (supplementary)
 4. Group analysis
 4.1 Import and create dataframes
 4.2 Non-infected venn
@@ -51,6 +54,7 @@ The code is indexed as follows:
 8.1 Searching the dataset
 8.2 Spectral counting of peptide sequences
 
+Supplementary
 S1. Exclude HB-proteins
 S.1.1 Acute Wound Fluid
 S.1.2 Infected
@@ -59,8 +63,13 @@ S.1.3 Non-infected
 S2. Spectral count barcharts
 S.2.1 Without SC cutoff value
 S.2.2. With SC cutoff value
+
+S3. Plotting Specral Count for Sequences
+S.3.1 Acute Wound Fluid
+S.3.2 Infected Samples
+S.3.3 Non-infected Samples
 ```
-Where S denotes the scripts used for supplementary figures and tables.
+Where S or (supplementary) denotes the scripts used for supplementary figures and tables.
 
 ### Formatting
 The formatting code is indexed in a similar manner: 
