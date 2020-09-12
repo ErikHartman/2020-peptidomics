@@ -63,6 +63,11 @@ S.1.3 Non-infected
 S2. Spectral count barcharts
 S.2.1 Without SC cutoff value
 S.2.2. With SC cutoff value
+
+S3. Plotting Specral Count for Sequences
+S.3.1 Acute Wound Fluid
+S.3.2 Infected Samples
+S.3.3 Non-infected Samples
 ```
 Where S or (supplementary) denotes the scripts used for supplementary figures and tables.
 
