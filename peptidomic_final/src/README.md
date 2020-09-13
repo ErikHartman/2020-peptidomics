@@ -15,7 +15,6 @@ The code is indexed as follows:
 1.4 N/C-terminal over spectral count graph
 1.5 Grouped N/C-terminal table (supplementary)
 1.6 Grouped N/C-terminal over spectral count graph (supplementary)
-1.7 Spectral count over occurrence (supplementary)
 2. Non-infected samples
 2.1 Data import
 2.2 Amino acid profile
@@ -23,7 +22,6 @@ The code is indexed as follows:
 2.4 N/C-terminal over spectral count graph
 2.5 Grouped N/C-terminal table (supplementary)
 2.6 Grouped N/C-terminal over spectral count graph (supplementary)
-2.7 Spectral count over occurrence (supplementary)
 3. Infected samples
 3.1 Data import
 3.2 Amino acid profile
@@ -31,7 +29,6 @@ The code is indexed as follows:
 3.4 N/C-terminal over spectral count graph
 3.5 Grouped N/C-terminal table (supplementary)
 3.6 Grouped N/C-terminal over spectral count graph (supplementary)
-3.7 Spectral count over occurrence (supplementary)
 4. Group analysis
 4.1 Import and create dataframes
 4.2 Non-infected venn
