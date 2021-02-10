@@ -1,8 +1,8 @@
 
 # Hartman E., Wallblom K., 2020-peptidomics
-This git repository contains the code and data for a research project conducted by Erik Hartman (bachelor in Biomedical Engineering and Biomedicine) and Karl Wallblom (master in Medicine) at Lunds University during the summer of 2020. This work extends the work published by (NAMES) in (JOURNAL/ARCHIVE, DATE). 
+This git repository contains the code and data for a research project conducted by Erik Hartman (bachelor in Biomedical Engineering and Biomedicine) and Karl Wallblom (master in Medicine) at Lunds University during the summer of 2020. This work extends the work published by Hartman Erik, Wallblom Karl, van der Plas Mariena J. A., Petrlova Jitka, Cai Jun, Saleh Karim, Kjellström Sven, Schmidtchen Artur in Frontiers Immunology 2021/02/03. 
 
-The full scientific article can be found here: xxxxxxxxxxxxxxxxxxxxx
+The full scientific article can be found here: https://doi.org/10.3389/fimmu.2020.620707 
 
 ### Background
 This project uses LC-MS/MS peptidomic data retrieved from dressing and acute wound fluid to investigate any potential differences between acute, non-infected and infected wound fluids. We used an unbiased results-based approach and simple algorithms and libraries in Python, as well as other open-source software like [Deep-AmPEP30](https://doi.org/10.1016/j.omtn.2020.05.006)[1], [Proteasix](https://doi.org/10.1002/pmic.201200493)[2] and [Peptigram](https://doi.org/10.1021/acs.jproteome.6b00751)[3], to analyze our data. The git contains all the code necessary to recreate our project, except for the compatability of the web-based 3rd party algorithms, although we've included the necessary formatting, and the output data we retrieved. The separate folders contain instructions which hopefully allows you to understand and replicate the code.
